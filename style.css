@@ -1,0 +1,25 @@
+@font-face {
+    font-family: birthday;
+    src: url(./balonku-font/BalonkuRegular-la1w.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: white;   
+}
+
+.countdown-container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.countdown-label{
+    padding-top: 20px;
+}
+
+.countdown-label h1, h2{
+    font-family: birthday;
+}

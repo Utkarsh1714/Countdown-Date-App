@@ -23,3 +23,9 @@
 .countdown-label h1, h2{
     font-family: birthday;
 }
+.note{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
